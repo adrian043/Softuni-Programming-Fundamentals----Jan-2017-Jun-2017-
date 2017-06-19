@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\Greetings\bin\Debug\Greetings.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\Greetings\bin\Debug\Greetings.exe
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\Greetings\bin\Debug\Greetings.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\Greetings\obj\Debug\Greetings.exe
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\Greetings\obj\Debug\Greetings.pdb

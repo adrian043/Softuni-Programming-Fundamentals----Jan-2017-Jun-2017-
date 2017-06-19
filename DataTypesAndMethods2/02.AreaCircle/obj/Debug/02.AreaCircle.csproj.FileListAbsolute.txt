@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\02.AreaCircle\bin\Debug\02.AreaCircle.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\02.AreaCircle\bin\Debug\02.AreaCircle.exe
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\02.AreaCircle\bin\Debug\02.AreaCircle.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\02.AreaCircle\obj\Debug\02.AreaCircle.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\02.AreaCircle\obj\Debug\02.AreaCircle.exe
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\02.AreaCircle\obj\Debug\02.AreaCircle.pdb

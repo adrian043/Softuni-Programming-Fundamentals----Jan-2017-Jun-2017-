@@ -1,0 +1,6 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ReverseChars\bin\Debug\ReverseChars.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ReverseChars\bin\Debug\ReverseChars.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ReverseChars\bin\Debug\ReverseChars.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ReverseChars\obj\Debug\ReverseChars.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ReverseChars\obj\Debug\ReverseChars.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ReverseChars\obj\Debug\ReverseChars.pdb

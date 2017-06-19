@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\TripplesLatins\bin\Debug\TripplesLatins.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\TripplesLatins\bin\Debug\TripplesLatins.exe
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\TripplesLatins\bin\Debug\TripplesLatins.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\TripplesLatins\obj\Debug\TripplesLatins.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\TripplesLatins\obj\Debug\TripplesLatins.exe
+c:\users\adi\documents\visual studio 2015\Projects\DataTypesAndMethods2\TripplesLatins\obj\Debug\TripplesLatins.pdb

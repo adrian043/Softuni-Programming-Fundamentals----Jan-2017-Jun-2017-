@@ -1,0 +1,6 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ExactSum\bin\Debug\ExactSum.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ExactSum\bin\Debug\ExactSum.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ExactSum\bin\Debug\ExactSum.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ExactSum\obj\Debug\ExactSum.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ExactSum\obj\Debug\ExactSum.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\DataTypesAndMethods2\ExactSum\obj\Debug\ExactSum.pdb
