@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2015\Projects\Regex\Cards\bin\Debug\Cards.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\Regex\Cards\bin\Debug\Cards.exe
+c:\users\adi\documents\visual studio 2015\Projects\Regex\Cards\bin\Debug\Cards.pdb
+c:\users\adi\documents\visual studio 2015\Projects\Regex\Cards\obj\Debug\Cards.exe
+c:\users\adi\documents\visual studio 2015\Projects\Regex\Cards\obj\Debug\Cards.pdb
