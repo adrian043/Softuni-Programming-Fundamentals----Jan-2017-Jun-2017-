@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\LineNumbers\bin\Debug\LineNumbers.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\LineNumbers\bin\Debug\LineNumbers.exe
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\LineNumbers\bin\Debug\LineNumbers.pdb
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\LineNumbers\obj\Debug\LineNumbers.exe
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\LineNumbers\obj\Debug\LineNumbers.pdb

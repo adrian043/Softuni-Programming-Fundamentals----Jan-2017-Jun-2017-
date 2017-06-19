@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FolderSize\bin\Debug\FolderSize.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FolderSize\bin\Debug\FolderSize.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FolderSize\bin\Debug\FolderSize.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FolderSize\obj\Debug\FolderSize.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FolderSize\obj\Debug\FolderSize.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FolderSize\obj\Debug\FolderSize.pdb

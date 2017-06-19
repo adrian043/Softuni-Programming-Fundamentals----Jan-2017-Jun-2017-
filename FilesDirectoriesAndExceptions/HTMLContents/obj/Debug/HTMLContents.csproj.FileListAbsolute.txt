@@ -1,0 +1,5 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\HTMLContents\bin\Debug\HTMLContents.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\HTMLContents\bin\Debug\HTMLContents.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\HTMLContents\bin\Debug\HTMLContents.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\HTMLContents\obj\Debug\HTMLContents.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\HTMLContents\obj\Debug\HTMLContents.pdb

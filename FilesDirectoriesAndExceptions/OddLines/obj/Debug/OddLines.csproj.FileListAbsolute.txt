@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\OddLines\bin\Debug\OddLines.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\OddLines\bin\Debug\OddLines.exe
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\OddLines\bin\Debug\OddLines.pdb
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\OddLines\obj\Debug\OddLines.exe
+c:\users\adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\OddLines\obj\Debug\OddLines.pdb

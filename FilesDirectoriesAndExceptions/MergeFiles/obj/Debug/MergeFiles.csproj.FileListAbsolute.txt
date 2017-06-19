@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\MergeFiles\bin\Debug\MergeFiles.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\MergeFiles\bin\Debug\MergeFiles.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\MergeFiles\bin\Debug\MergeFiles.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\MergeFiles\obj\Debug\MergeFiles.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\MergeFiles\obj\Debug\MergeFiles.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\MergeFiles\obj\Debug\MergeFiles.pdb

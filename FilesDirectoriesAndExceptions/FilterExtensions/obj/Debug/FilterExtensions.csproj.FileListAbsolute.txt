@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FilterExtensions\bin\Debug\FilterExtensions.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FilterExtensions\bin\Debug\FilterExtensions.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FilterExtensions\bin\Debug\FilterExtensions.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FilterExtensions\obj\Debug\FilterExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FilterExtensions\obj\Debug\FilterExtensions.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\FilesDirectoriesAndExceptions\FilterExtensions\obj\Debug\FilterExtensions.pdb
