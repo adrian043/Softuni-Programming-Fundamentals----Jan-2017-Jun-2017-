@@ -1,0 +1,5 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\OrderedBankingSystem\bin\Debug\OrderedBankingSystem.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\OrderedBankingSystem\bin\Debug\OrderedBankingSystem.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\OrderedBankingSystem\bin\Debug\OrderedBankingSystem.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\OrderedBankingSystem\obj\Debug\OrderedBankingSystem.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\OrderedBankingSystem\obj\Debug\OrderedBankingSystem.pdb

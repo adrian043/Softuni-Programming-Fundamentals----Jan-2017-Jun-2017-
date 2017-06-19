@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\LambadaExpressions\bin\Debug\LambadaExpressions.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\LambadaExpressions\bin\Debug\LambadaExpressions.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\LambadaExpressions\bin\Debug\LambadaExpressions.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\LambadaExpressions\obj\Debug\LambadaExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\LambadaExpressions\obj\Debug\LambadaExpressions.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\LambadaExpressions\obj\Debug\LambadaExpressions.pdb

@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\Test\bin\Debug\Test.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\Test\bin\Debug\Test.exe
+c:\users\adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\Test\bin\Debug\Test.pdb
+c:\users\adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\Test\obj\Debug\Test.exe
+c:\users\adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\Test\obj\Debug\Test.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\LambdaAndLINQExcersices\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

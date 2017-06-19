@@ -1,0 +1,6 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\FlattenDictionary\bin\Debug\FlattenDictionary.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\FlattenDictionary\bin\Debug\FlattenDictionary.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\FlattenDictionary\bin\Debug\FlattenDictionary.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\FlattenDictionary\obj\Debug\FlattenDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\FlattenDictionary\obj\Debug\FlattenDictionary.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\FlattenDictionary\obj\Debug\FlattenDictionary.pdb

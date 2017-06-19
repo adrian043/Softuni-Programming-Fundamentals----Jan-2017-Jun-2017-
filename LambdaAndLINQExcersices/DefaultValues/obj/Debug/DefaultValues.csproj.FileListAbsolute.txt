@@ -1,0 +1,6 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\DefaultValues\bin\Debug\DefaultValues.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\DefaultValues\bin\Debug\DefaultValues.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\DefaultValues\bin\Debug\DefaultValues.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\DefaultValues\obj\Debug\DefaultValues.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\DefaultValues\obj\Debug\DefaultValues.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\LambdaAndLINQExcersices\DefaultValues\obj\Debug\DefaultValues.pdb

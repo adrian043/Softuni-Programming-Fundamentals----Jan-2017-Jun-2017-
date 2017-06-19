@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisteredUsers", "RegisteredUsers\RegisteredUsers.csproj", "{F2BDA2CE-59FF-497E-B597-F6FA400EDB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A32AA374-D0B9-4DA5-81EB-C71F7C4C9F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultValues", "DefaultValues\DefaultValues.csproj", "{2938168C-C597-45D0-A803-C3BB92B6349B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenDictionary", "FlattenDictionary\FlattenDictionary.csproj", "{D5252EC1-0FFB-4B16-8619-DFA43423FA58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambadaExpressions", "LambadaExpressions\LambadaExpressions.csproj", "{E4FBC078-8CCD-4E42-971C-B555D4BC5064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedBankingSystem", "OrderedBankingSystem\OrderedBankingSystem.csproj", "{EFE32CDF-A417-40BD-8A78-6871B35E512D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CottageScraper", "CottageScraper\CottageScraper.csproj", "{6603A2B0-CF08-47D2-AE70-7658871CDEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BDA2CE-59FF-497E-B597-F6FA400EDB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BDA2CE-59FF-497E-B597-F6FA400EDB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BDA2CE-59FF-497E-B597-F6FA400EDB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BDA2CE-59FF-497E-B597-F6FA400EDB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32AA374-D0B9-4DA5-81EB-C71F7C4C9F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32AA374-D0B9-4DA5-81EB-C71F7C4C9F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32AA374-D0B9-4DA5-81EB-C71F7C4C9F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32AA374-D0B9-4DA5-81EB-C71F7C4C9F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2938168C-C597-45D0-A803-C3BB92B6349B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2938168C-C597-45D0-A803-C3BB92B6349B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2938168C-C597-45D0-A803-C3BB92B6349B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2938168C-C597-45D0-A803-C3BB92B6349B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5252EC1-0FFB-4B16-8619-DFA43423FA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5252EC1-0FFB-4B16-8619-DFA43423FA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5252EC1-0FFB-4B16-8619-DFA43423FA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5252EC1-0FFB-4B16-8619-DFA43423FA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FBC078-8CCD-4E42-971C-B555D4BC5064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FBC078-8CCD-4E42-971C-B555D4BC5064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FBC078-8CCD-4E42-971C-B555D4BC5064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FBC078-8CCD-4E42-971C-B555D4BC5064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE32CDF-A417-40BD-8A78-6871B35E512D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE32CDF-A417-40BD-8A78-6871B35E512D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE32CDF-A417-40BD-8A78-6871B35E512D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE32CDF-A417-40BD-8A78-6871B35E512D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6603A2B0-CF08-47D2-AE70-7658871CDEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6603A2B0-CF08-47D2-AE70-7658871CDEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6603A2B0-CF08-47D2-AE70-7658871CDEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6603A2B0-CF08-47D2-AE70-7658871CDEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
