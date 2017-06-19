@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\FlipListSides\bin\Debug\FlipListSides.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\FlipListSides\bin\Debug\FlipListSides.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\FlipListSides\bin\Debug\FlipListSides.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\FlipListSides\obj\Debug\FlipListSides.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\FlipListSides\obj\Debug\FlipListSides.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\FlipListSides\obj\Debug\FlipListSides.pdb

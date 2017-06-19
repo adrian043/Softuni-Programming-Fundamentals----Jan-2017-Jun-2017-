@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\NoteStatistics\bin\Debug\NoteStatistics.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\NoteStatistics\bin\Debug\NoteStatistics.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\NoteStatistics\bin\Debug\NoteStatistics.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\NoteStatistics\obj\Debug\NoteStatistics.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\NoteStatistics\obj\Debug\NoteStatistics.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\NoteStatistics\obj\Debug\NoteStatistics.csprojResolveAssemblyReference.cache

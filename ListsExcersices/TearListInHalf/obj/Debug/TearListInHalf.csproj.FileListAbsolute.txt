@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\TearListInHalf\bin\Debug\TearListInHalf.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\TearListInHalf\bin\Debug\TearListInHalf.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\TearListInHalf\bin\Debug\TearListInHalf.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\TearListInHalf\obj\Debug\TearListInHalf.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\TearListInHalf\obj\Debug\TearListInHalf.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\TearListInHalf\obj\Debug\TearListInHalf.pdb

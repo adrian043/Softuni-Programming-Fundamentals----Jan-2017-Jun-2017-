@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.exe
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\RemoveElementsAtOddPositions\bin\Debug\RemoveElementsAtOddPositions.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.exe
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\RemoveElementsAtOddPositions\obj\Debug\RemoveElementsAtOddPositions.pdb

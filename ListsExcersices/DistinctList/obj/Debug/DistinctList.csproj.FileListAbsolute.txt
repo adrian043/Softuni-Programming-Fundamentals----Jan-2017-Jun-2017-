@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\DistinctList\bin\Debug\DistinctList.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\DistinctList\bin\Debug\DistinctList.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\DistinctList\bin\Debug\DistinctList.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\DistinctList\obj\Debug\DistinctList.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\DistinctList\obj\Debug\DistinctList.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\DistinctList\obj\Debug\DistinctList.pdb

@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\TrackDownloader\bin\Debug\TrackDownloader.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\TrackDownloader\bin\Debug\TrackDownloader.exe
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\TrackDownloader\bin\Debug\TrackDownloader.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\TrackDownloader\obj\Debug\TrackDownloader.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\TrackDownloader\obj\Debug\TrackDownloader.exe
+c:\users\adi\documents\visual studio 2015\Projects\ListsExcersices\TrackDownloader\obj\Debug\TrackDownloader.pdb

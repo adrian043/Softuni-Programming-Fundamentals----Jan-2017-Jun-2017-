@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\EqualSumAfterExtraction\bin\Debug\EqualSumAfterExtraction.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ListsExcersices\EqualSumAfterExtraction\obj\Debug\EqualSumAfterExtraction.pdb
