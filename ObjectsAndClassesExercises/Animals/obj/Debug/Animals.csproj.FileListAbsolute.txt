@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Animals\bin\Debug\Animals.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Animals\bin\Debug\Animals.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Animals\bin\Debug\Animals.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Animals\obj\Debug\Animals.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Animals\obj\Debug\Animals.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache

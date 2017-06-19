@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.pdb

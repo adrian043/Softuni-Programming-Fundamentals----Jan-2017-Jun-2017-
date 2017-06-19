@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\Exercises\obj\Debug\Exercises.pdb
