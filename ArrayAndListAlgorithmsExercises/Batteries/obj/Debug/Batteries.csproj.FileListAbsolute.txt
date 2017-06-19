@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Batteries\bin\Debug\Batteries.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Batteries\bin\Debug\Batteries.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Batteries\bin\Debug\Batteries.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Batteries\obj\Debug\Batteries.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Batteries\obj\Debug\Batteries.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Batteries\obj\Debug\Batteries.csprojResolveAssemblyReference.cache

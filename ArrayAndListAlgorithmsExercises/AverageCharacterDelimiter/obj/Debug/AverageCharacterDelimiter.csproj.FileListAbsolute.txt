@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.exe
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.pdb

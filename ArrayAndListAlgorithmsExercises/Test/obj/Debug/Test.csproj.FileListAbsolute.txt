@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Test\bin\Debug\Test.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Test\bin\Debug\Test.exe
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Test\bin\Debug\Test.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Test\obj\Debug\Test.exe
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Test\obj\Debug\Test.pdb
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

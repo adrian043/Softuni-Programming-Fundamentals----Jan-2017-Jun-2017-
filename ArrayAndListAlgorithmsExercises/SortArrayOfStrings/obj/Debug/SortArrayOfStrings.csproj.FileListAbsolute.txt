@@ -1,0 +1,5 @@
+c:\users\adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.pdb

@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\ArrayHistogram.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\ArrayHistogram.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\ArrayHistogram.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\ArrayHistogram.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\ArrayHistogram.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\ArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\ArrayHistogram.pdb
