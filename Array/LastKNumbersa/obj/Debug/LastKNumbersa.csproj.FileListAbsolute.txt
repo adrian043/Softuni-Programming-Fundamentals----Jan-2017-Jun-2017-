@@ -1,0 +1,1 @@
+c:\users\adi\documents\visual studio 2015\Projects\Array\LastKNumbersa\bin\Debug\LastKNumbersa.exe.config

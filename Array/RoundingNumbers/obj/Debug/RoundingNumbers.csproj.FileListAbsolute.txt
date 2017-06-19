@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\Array\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\Array\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+c:\users\adi\documents\visual studio 2015\Projects\Array\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+c:\users\adi\documents\visual studio 2015\Projects\Array\RoundingNumbers\obj\Debug\RoundingNumbers.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\Array\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+c:\users\adi\documents\visual studio 2015\Projects\Array\RoundingNumbers\obj\Debug\RoundingNumbers.pdb
