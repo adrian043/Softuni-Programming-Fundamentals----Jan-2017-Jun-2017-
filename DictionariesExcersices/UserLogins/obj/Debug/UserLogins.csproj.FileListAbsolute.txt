@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\UserLogins\bin\Debug\UserLogins.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\UserLogins\bin\Debug\UserLogins.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\UserLogins\bin\Debug\UserLogins.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\UserLogins\obj\Debug\UserLogins.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\UserLogins\obj\Debug\UserLogins.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\UserLogins\obj\Debug\UserLogins.pdb

@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\ExamShopping\bin\Debug\ExamShopping.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\ExamShopping\bin\Debug\ExamShopping.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\ExamShopping\bin\Debug\ExamShopping.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\ExamShopping\obj\Debug\ExamShopping.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\ExamShopping\obj\Debug\ExamShopping.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\ExamShopping\obj\Debug\ExamShopping.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\LetterRepetition\bin\Debug\LetterRepetition.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\LetterRepetition\bin\Debug\LetterRepetition.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\LetterRepetition\bin\Debug\LetterRepetition.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\LetterRepetition\obj\Debug\LetterRepetition.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\LetterRepetition\obj\Debug\LetterRepetition.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\LetterRepetition\obj\Debug\LetterRepetition.pdb

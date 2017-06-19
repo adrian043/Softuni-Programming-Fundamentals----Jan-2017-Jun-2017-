@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\DictRef\bin\Debug\DictRef.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\DictRef\bin\Debug\DictRef.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\DictRef\bin\Debug\DictRef.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\DictRef\obj\Debug\DictRef.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\DictRef\obj\Debug\DictRef.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\DictRef\obj\Debug\DictRef.pdb

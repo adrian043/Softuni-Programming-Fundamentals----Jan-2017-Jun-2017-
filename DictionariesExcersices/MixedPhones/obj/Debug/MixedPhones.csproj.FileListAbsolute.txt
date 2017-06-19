@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\MixedPhones\bin\Debug\MixedPhones.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\MixedPhones\bin\Debug\MixedPhones.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\MixedPhones\bin\Debug\MixedPhones.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\MixedPhones\obj\Debug\MixedPhones.exe
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\MixedPhones\obj\Debug\MixedPhones.pdb
+c:\users\adi\documents\visual studio 2015\Projects\DictionariesExcersices\MixedPhones\obj\Debug\MixedPhones.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\FilterBase\bin\Debug\FilterBase.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\FilterBase\bin\Debug\FilterBase.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\FilterBase\bin\Debug\FilterBase.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\FilterBase\obj\Debug\FilterBase.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\FilterBase\obj\Debug\FilterBase.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\DictionariesExcersices\FilterBase\obj\Debug\FilterBase.csprojResolveAssemblyReference.cache
