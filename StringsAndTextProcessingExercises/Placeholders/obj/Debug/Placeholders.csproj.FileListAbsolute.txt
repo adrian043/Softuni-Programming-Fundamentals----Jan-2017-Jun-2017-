@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Placeholders\bin\Debug\Placeholders.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Placeholders\bin\Debug\Placeholders.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Placeholders\bin\Debug\Placeholders.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Placeholders\obj\Debug\Placeholders.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Placeholders\obj\Debug\Placeholders.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Placeholders\obj\Debug\Placeholders.pdb

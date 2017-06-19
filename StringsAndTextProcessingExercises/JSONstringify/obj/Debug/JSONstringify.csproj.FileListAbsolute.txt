@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONstringify\bin\Debug\JSONstringify.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONstringify\bin\Debug\JSONstringify.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONstringify\bin\Debug\JSONstringify.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONstringify\obj\Debug\JSONstringify.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONstringify\obj\Debug\JSONstringify.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONstringify\obj\Debug\JSONstringify.pdb

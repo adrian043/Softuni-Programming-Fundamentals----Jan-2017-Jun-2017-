@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONparse\bin\Debug\JSONparse.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONparse\bin\Debug\JSONparse.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONparse\bin\Debug\JSONparse.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONparse\obj\Debug\JSONparse.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONparse\obj\Debug\JSONparse.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\JSONparse\obj\Debug\JSONparse.csprojResolveAssemblyReference.cache

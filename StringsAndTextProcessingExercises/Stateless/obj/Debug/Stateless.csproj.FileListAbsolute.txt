@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Stateless\bin\Debug\Stateless.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Stateless\bin\Debug\Stateless.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Stateless\bin\Debug\Stateless.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Stateless\obj\Debug\Stateless.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Stateless\obj\Debug\Stateless.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\Stateless\obj\Debug\Stateless.pdb

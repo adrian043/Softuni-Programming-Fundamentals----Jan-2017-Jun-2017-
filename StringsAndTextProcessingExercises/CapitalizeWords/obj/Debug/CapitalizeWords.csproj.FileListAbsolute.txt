@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\CapitalizeWords\bin\Debug\CapitalizeWords.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\CapitalizeWords\bin\Debug\CapitalizeWords.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\CapitalizeWords\bin\Debug\CapitalizeWords.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\CapitalizeWords\obj\Debug\CapitalizeWords.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\CapitalizeWords\obj\Debug\CapitalizeWords.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\CapitalizeWords\obj\Debug\CapitalizeWords.csprojResolveAssemblyReference.cache

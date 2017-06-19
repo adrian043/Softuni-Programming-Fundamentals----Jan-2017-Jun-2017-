@@ -1,0 +1,5 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SentenceSplit\bin\Debug\SentenceSplit.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SentenceSplit\bin\Debug\SentenceSplit.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SentenceSplit\bin\Debug\SentenceSplit.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SentenceSplit\obj\Debug\SentenceSplit.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SentenceSplit\obj\Debug\SentenceSplit.pdb

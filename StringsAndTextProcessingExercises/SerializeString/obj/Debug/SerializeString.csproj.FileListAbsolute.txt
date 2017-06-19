@@ -1,0 +1,6 @@
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SerializeString\bin\Debug\SerializeString.exe.config
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SerializeString\bin\Debug\SerializeString.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SerializeString\bin\Debug\SerializeString.pdb
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SerializeString\obj\Debug\SerializeString.csprojResolveAssemblyReference.cache
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SerializeString\obj\Debug\SerializeString.exe
+C:\Users\Adi\documents\visual studio 2015\Projects\StringsAndTextProcessingExercises\SerializeString\obj\Debug\SerializeString.pdb
